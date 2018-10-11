@@ -5,11 +5,11 @@ Notre objectif est de conteneuriser et d'API-ser l’application containerbank a
 :construction: . .. ...projet en cours... .. .  :construction:
 
 ### Overview (target)
-<img src="https://raw.githubusercontent.com/cacf-team/hack-cacf/master/readme_applications-overview.png"
+<img src="https://raw.githubusercontent.com/cacf-team/hackathon/master/readme_applications-overview.png"
      alt="Applications overview" />
 
 ### Application Architecture (Kubernetes)
-<img src="https://raw.githubusercontent.com/cacf-team/hack-cacf/master/readme_containers-architecture.png"
+<img src="https://raw.githubusercontent.com/cacf-team/hackathon/master/readme_containers-architecture.png"
      alt="Architecture applicative (Kubernetes)" />
 
 ### Good practices
@@ -104,7 +104,7 @@ Notre objectif est de conteneuriser et d'API-ser l’application containerbank a
 ## Models
 
 ### Overview 
-<img src="https://raw.githubusercontent.com/cacf-team/hack-cacf/master/readme_models-overview.png"
+<img src="https://raw.githubusercontent.com/cacf-team/hackathon/master/readme_models-overview.png"
      alt="Models overview" />
 
 ### Description
